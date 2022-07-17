@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Рабочий стол\GBStudy\С#\Examples\Example001_HelloConslole\bin\Debug\net6.0\Example001_HelloConslole.exe
+C:\Users\User\OneDrive\Рабочий стол\GBStudy\С#\Examples\Example001_HelloConslole\bin\Debug\net6.0\Example001_HelloConslole.deps.json
+C:\Users\User\OneDrive\Рабочий стол\GBStudy\С#\Examples\Example001_HelloConslole\bin\Debug\net6.0\Example001_HelloConslole.runtimeconfig.json
+C:\Users\User\OneDrive\Рабочий стол\GBStudy\С#\Examples\Example001_HelloConslole\bin\Debug\net6.0\Example001_HelloConslole.dll
+C:\Users\User\OneDrive\Рабочий стол\GBStudy\С#\Examples\Example001_HelloConslole\bin\Debug\net6.0\Example001_HelloConslole.pdb
+C:\Users\User\OneDrive\Рабочий стол\GBStudy\С#\Examples\Example001_HelloConslole\obj\Debug\net6.0\Example001_HelloConslole.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\GBStudy\С#\Examples\Example001_HelloConslole\obj\Debug\net6.0\Example001_HelloConslole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Рабочий стол\GBStudy\С#\Examples\Example001_HelloConslole\obj\Debug\net6.0\Example001_HelloConslole.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\GBStudy\С#\Examples\Example001_HelloConslole\obj\Debug\net6.0\Example001_HelloConslole.AssemblyInfo.cs
+C:\Users\User\OneDrive\Рабочий стол\GBStudy\С#\Examples\Example001_HelloConslole\obj\Debug\net6.0\Example001_HelloConslole.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\GBStudy\С#\Examples\Example001_HelloConslole\obj\Debug\net6.0\Example001_HelloConslole.dll
+C:\Users\User\OneDrive\Рабочий стол\GBStudy\С#\Examples\Example001_HelloConslole\obj\Debug\net6.0\refint\Example001_HelloConslole.dll
+C:\Users\User\OneDrive\Рабочий стол\GBStudy\С#\Examples\Example001_HelloConslole\obj\Debug\net6.0\Example001_HelloConslole.pdb
+C:\Users\User\OneDrive\Рабочий стол\GBStudy\С#\Examples\Example001_HelloConslole\obj\Debug\net6.0\Example001_HelloConslole.genruntimeconfig.cache
+C:\Users\User\OneDrive\Рабочий стол\GBStudy\С#\Examples\Example001_HelloConslole\obj\Debug\net6.0\ref\Example001_HelloConslole.dll
